@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.exemplo.BibliotecaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-18T17:38:32" hostname="LTDBNCBV3" time="0.022">
+  <properties/>
+  <testcase name="testBuscarLivroPorId()" classname="com.exemplo.BibliotecaTest" time="0.018"/>
+  <testcase name="testAdicionarLivro()" classname="com.exemplo.BibliotecaTest" time="0.001"/>
+  <testcase name="testRemoverLivro()" classname="com.exemplo.BibliotecaTest" time="0.002"/>
+  <testcase name="testListarLivrosDisponiveis()" classname="com.exemplo.BibliotecaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
