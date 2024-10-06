@@ -1,6 +1,6 @@
 # Desafios Java com Testes para Iniciantes
 
-Bem-vindo ao repositório **Desafios Java com Testes para Iniciantes**! Este repositório contém uma série de desafios de programação em Java, focados em lógica de negócios e manipulação de dados, com a adição de testes automatizados para validar suas soluções.
+Bem-vindo ao repositório sobre **Desafios Java com Testes para Iniciantes**! Este repositório contém uma série de desafios de programação em Java, focados em lógica de negócios e manipulação de dados, com a adição de testes automatizados para validar suas soluções.
 
 ## Objetivo
 
