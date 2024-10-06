@@ -10,11 +10,11 @@ O objetivo deste repositório é ajudar iniciantes a praticar e aprimorar suas h
 
 1. **Clone o repositório** para o seu ambiente local:
     ```bash
-    git clone https://github.com/eduardacf/desafios-java-testes-iniciantes.git
+    git clone https://github.com/eduardacf/java-testing-exercises.git
     ```
 2. **Navegue até o diretório** do repositório:
     ```bash
-    cd desafios-java-testes-iniciantes
+    cd java-testing-exercises
     ```
 3. **Leia as instruções** de cada desafio no respectivo arquivo `.md`.
 4. **Implemente sua solução** em um arquivo `.java` separado.
